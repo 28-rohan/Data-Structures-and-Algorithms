@@ -3,5 +3,5 @@ My daily solutions to LeetCode problems in C++.
 
 ## Progress
 - **Language:** C++
-- **Topics:** Arrays, Strings, Linked Lists, Trees, Graphs
+- **Topics:** Arrays, String, Maths, Recursion 
 - **Count:** 27 Problems Solved
