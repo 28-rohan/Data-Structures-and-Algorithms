@@ -1,4 +1,4 @@
-# Data-Structures and Algorithms
+# Data Structures and Algorithms
 My daily solutions to LeetCode problems in C++.
 
 ## Progress
